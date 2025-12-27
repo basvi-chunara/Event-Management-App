@@ -174,13 +174,13 @@ The app uses Google Maps to display entrant locations for organizers. The API ke
 
 ### Documentation
 
-- [**Wiki**](https://github.com/RISCVI-301/CMPUT301F25riscvi/wiki)
+- [**Wiki**](https://github.com/basvi-chunara/Event-Management-App/wiki)
 
-- [**UI Mockups**](https://github.com/RISCVI-301/CMPUT301F25riscvi/wiki/Updated-UI-Mockup-(PART-4))
+- [**UI Mockups**](https://github.com/basvi-chunara/Event-Management-App/wiki/Updated-UI-Mockup-(PART-4))
 
-- [**UI Storyboard**](https://github.com/RISCVI-301/CMPUT301F25riscvi/wiki/Updated-Storyboard-Sequence-(PART-4))
+- [**UI Storyboard**](https://github.com/basvi-chunara/Event-Management-App/wiki/Updated-Storyboard-Sequence-(PART-4))
 
-- [**Sprint Planning** ](https://github.com/RISCVI-301/CMPUT301F25riscvi/wiki/Sprint-Planning-and-Review)
+- [**Sprint Planning** ](https://github.com/basvi-chunara/Event-Management-App/wiki/Sprint-Planning-and-Review-(Part4))
 
-- [**UML**](https://github.com/RISCVI-301/CMPUT301F25riscvi/wiki/Final-UML-Class-Diagram-Based-on-CodeBase)
+- [**UML**](https://github.com/basvi-chunara/Event-Management-App/wiki/Final-UML-Class-Diagram-Based-on-CodeBase)
 
